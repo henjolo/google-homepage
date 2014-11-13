@@ -1,0 +1,20 @@
+IMG.logo {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 220px;
+}
+
+.search {
+	
+	width:165px;
+	margin:0px auto;
+	width:250;
+ height:30;
+ padding:15px;
+ border-radius:6px;
+ border:none;
+ color:#939393;
+ font-weight:500;
+ background-color:#fffbf8;
+}
